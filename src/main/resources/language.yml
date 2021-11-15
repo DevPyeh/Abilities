@@ -1,0 +1,165 @@
+TELEPORT_ABILITY:
+  radius_access:
+    - "&7&m"
+    - "&cYou need to be within 8 blocks of that player!"
+    - "&7&m"
+  cooldown:
+    - "&7&m"
+    - "&cYou currently have a cooldown of the ability"
+    - "  <display_name>&c for <delay> seconds!"
+    - "&7&m"
+  activated_attacker:
+    - "&7&m"
+    - "&eYou used the ability <display_name>&e against <enemy>"
+    - "&eYou can use it in <delay> seconds."
+    - "&7&m"
+  activated_victim:
+    - "&7&m"
+    - "&4<attacker> &chas used the ability <display_name>&c against you."
+    - "&7&m"
+
+BLOCK_ANTI_TRAPPER_ABILITY:
+  not_cannot_build:
+    - "&7&m"
+    - "&cYou need to be within 8 blocks of that player!"
+    - "&7&m"
+  cooldown:
+    - "&7&m"
+    - "&cYou currently have a cooldown of the ability"
+    - "  <display_name>&c for <delay> seconds!"
+    - "&7&m"
+  activated:
+    - "&7&m"
+    - "&eYou used the ability <display_name>&e"
+    - "&eYou can use it in <delay> seconds."
+    - "&7&m"
+  activated_victim:
+    - "&7&m"
+    - "&4<attacker> &chas used the ability <display_name>&c against you."
+    - "&7&m"
+  break_ability_in_world:
+    - "&7&m"
+    - "&cThe ability placed has just been broken,"
+    - "&c therefore the effects of it have been removed!"
+    - "&7&m"
+  break_after_ability_in_world:
+    - "&7&m"
+    - "&cThe ability <display_name>&c you placed has just been removed"
+    - "&c from the ground after losing the affect!"
+    - "&7&m"
+
+ANTI_BUILD_ABILITY:
+  not_cannot_build:
+    - "&7&m"
+    - "&cYou need to be within 8 blocks of that player!"
+    - "&7&m"
+  cooldown:
+    - "&7&m"
+    - "&cYou currently have a cooldown of the ability"
+    - "  <display_name>&c for <delay> seconds!"
+    - "&7&m"
+  activated_attacker:
+    - "&7&m"
+    - "&eYou used the ability <display_name>&e"
+    - "&eYou can use it in <delay> seconds."
+    - "&7&m"
+  activated_victim:
+    - "&7&m"
+    - "&4<attacker> &chas used the ability <display_name>&c against you."
+    - "&7&m"
+
+BREWING_REFILL_ABILITY:
+  cooldown:
+    - "&7&m"
+    - "&cYou currently have a cooldown of the ability"
+    - "  <display_name>&c for <delay> seconds!"
+    - "&7&m"
+  activated:
+    - "&7&m"
+    - "&eYou used the ability <display_name>&e"
+    - "&eYou can use it in <delay> seconds."
+    - "&7&m"
+
+COCAINE_ABILITY:
+  cooldown:
+    - "&7&m"
+    - "&cYou currently have a cooldown of the ability"
+    - "  <display_name>&c for <delay> seconds!"
+    - "&7&m"
+  activated:
+    - "&7&m"
+    - "&eYou used the ability <display_name>&e"
+    - "&eYou can use it in <delay> seconds."
+    - "&7&m"
+
+DISTORTION_ABILITY:
+  cooldown:
+    - "&7&m"
+    - "&cYou currently have a cooldown of the ability"
+    - "  <display_name>&c for <delay> seconds!"
+    - "&7&m"
+  activated_attacker:
+    - "&7&m"
+    - "&eYou used the ability <display_name>&e against <enemy>"
+    - "&eYou can use it in <delay> seconds."
+    - "&7&m"
+  activated_victim:
+    - "&7&m"
+    - "&4<attacker> &chas used the ability <display_name>&c against you."
+    - "&7&m"
+
+FAKE_LOGOUT_ABILITY:
+  cooldown:
+    - "&7&m"
+    - "&cYou currently have a cooldown of the ability"
+    - "  <display_name>&c for <delay> seconds!"
+    - "&7&m"
+  activated:
+    - "&7&m"
+    - "&eYou used the ability <display_name>&e"
+    - "&eYou can use it in <delay> seconds."
+    - "&7&m"
+
+FAKE_PEARL_ABILITY:
+  cooldown:
+    - "&7&m"
+    - "&cYou currently have a cooldown of the ability"
+    - "  <display_name>&c for <delay> seconds!"
+    - "&7&m"
+  activated:
+    - "&7&m"
+    - "&eYou used the ability <display_name>&e"
+    - "&eYou can use it in <delay> seconds."
+    - "&7&m"
+
+GRAPPLING_HOOK_ABILITY:
+  cooldown:
+    - "&7&m"
+    - "&cYou currently have a cooldown of the ability"
+    - "  <display_name>&c for <delay> seconds!"
+    - "&7&m"
+  activated:
+    - "&7&m"
+    - "&eYou used the ability <display_name>&e"
+    - "&eYou can use it in <delay> seconds."
+    - "&7&m"
+
+COUNTER_POTION_ABILITY:
+  cooldown:
+    - "&7&m"
+    - "&cYou currently have a cooldown of the ability"
+    - "  <display_name>&c for <delay> seconds!"
+    - "&7&m"
+  activated_attacker:
+    - "&7&m"
+    - "&eYou used the ability <display_name>&e"
+    - "&eYou can use it in <delay> seconds."
+    - "&7&m"
+  activated_victim:
+    - "&7&m"
+    - "&4<attacker> &chas used the ability <display_name>&c against you."
+    - "&7&m"
+  counter_potions:
+    - "&7&m"
+    - "&eCurrently your enemy <damaged> has <count> healing positions."
+    - "&7&m"

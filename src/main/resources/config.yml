@@ -1,0 +1,11 @@
+
+## System License
+LICENSE: "BUY-YOUR-OWN-LICENSE"
+## manage if you want the global cooldown
+GLOBAL_COOLDOWN: true
+## manage Lunar Client-API
+LUNAR_CLIENT_API: false
+
+FAKE_LOGOUT:
+  name_entity: "&c[Combat Logger] &7<player>"
+  spawn_entity: "VILLAGER" ## Type: VILLAGER - SKELETON

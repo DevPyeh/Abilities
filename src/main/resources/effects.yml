@@ -1,0 +1,8 @@
+## Example module : <EFFECT : DURATION : AMPLIFIER>
+
+COCAINE:
+  effects:
+    - "SPEED:5:2"
+FAKE_LOGOUT:
+  effects:
+    - "INVISIBILITY:60:1"

@@ -1,0 +1,107 @@
+TELEPORT:
+  display_name: "&6&lTeleport"
+  enabled: true
+  glow: true
+  item_data: "SNOW_BALL" ## SNOW_BALL OR EGG
+  item_id: 0
+  cooldown: 8
+  lore:
+    - "&7&m---------------"
+    - "&e&o abilities.yml"
+    - "&7&m---------------"
+
+BLOCK_ANTI_TRAPPER:
+  display_name: "&6&lBlock Anti-Trapper"
+  enabled: true
+  glow: true
+  item_data: "BEACON"
+  item_id: 0
+  cooldown: 10
+  lore:
+    - "&7&m---------------"
+    - "&e&o abilities.yml"
+    - "&7&m---------------"
+
+ANTI_BUILD:
+  display_name: "&6&lAnti Build"
+  enabled: true
+  glow: true
+  item_data: "BONE"
+  item_id: 0
+  cooldown: 10
+  lore:
+    - "&7&m---------------"
+    - "&e&o abilities.yml"
+    - "&7&m---------------"
+
+BREWING_REFILL:
+  display_name: "&6&lBrewing Refill"
+  enabled: true
+  glow: true
+  item_data: "BREWING_STAND_ITEM"
+  item_id: 0
+  cooldown: 10
+  lore:
+    - "&7&m---------------"
+    - "&e&o abilities.yml"
+    - "&7&m---------------"
+
+COCAINE:
+  display_name: "&6&lCocaine"
+  enabled: true
+  glow: true
+  item_data: "SUGAR"
+  item_id: 0
+  cooldown: 10
+  lore:
+    - "&7&m---------------"
+    - "&e&o abilities.yml"
+    - "&7&m---------------"
+
+DISTORTION:
+  display_name: "&6&lDistortion"
+  enabled: true
+  glow: true
+  item_data: "BONE"
+  item_id: 0
+  cooldown: 10
+  lore:
+    - "&7&m---------------"
+    - "&e&o abilities.yml"
+    - "&7&m---------------"
+
+FAKE_LOGOUT:
+  display_name: "&6&lFake Logout"
+  enabled: true
+  glow: true
+  item_data: "DIAMOND_SWORD"
+  item_id: 0
+  cooldown: 10
+  lore:
+    - "&7&m---------------"
+    - "&e&o abilities.yml"
+    - "&7&m---------------"
+
+FAKE_PEARL:
+  display_name: "&6&lFake Pearl"
+  enabled: true
+  glow: true
+  item_data: "ENDER_PEARL"
+  item_id: 0
+  cooldown: 10
+  lore:
+    - "&7&m---------------"
+    - "&e&o abilities.yml"
+    - "&7&m---------------"
+
+GRAPPLING_HOOK:
+  display_name: "&6&lGrappling Hook"
+  enabled: true
+  glow: true
+  item_data: "FISHING_ROD"
+  item_id: 0
+  cooldown: 10
+  lore:
+    - "&7&m---------------"
+    - "&e&o abilities.yml"
+    - "&7&m---------------"

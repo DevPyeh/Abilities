@@ -1,0 +1,9 @@
+name: IAbilities
+version: 0.0.4
+author: Pyeh
+description: Plugin created totally free
+main: me.pyeh.pabilities.IAbilities
+commands:
+  ability:
+    aliases: ["abilities", "pability", "pabilities"]
+    description: Abilities command manager
